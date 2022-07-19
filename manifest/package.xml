@@ -35,6 +35,8 @@
         <members>Event_Comms</members>
         <name>CustomApplication</name>
     </types>
+
+
     <types>
         <members>*</members>
         <name>LightningComponentBundle</name>
